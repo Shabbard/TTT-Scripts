@@ -18,4 +18,5 @@ dos2unix ./update_gmod.sh
 
 sudo apt -y install lib32tinfo5
 
+cd ~/TTT-Scripts
 ./run_ttt.sh
