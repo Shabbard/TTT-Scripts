@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 sudo apt update && sudo apt -y upgrade 
 cd ~
 mkdir bin
